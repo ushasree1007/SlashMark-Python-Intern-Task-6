@@ -24,6 +24,11 @@ FILES USED :
 
 OUTPUTS: 
 
+<img width="1774" height="980" alt="Image" src="https://github.com/user-attachments/assets/7bfc93b1-fbdb-40c8-be9e-a24c34537afd" />
+<img width="1754" height="982" alt="Image" src="https://github.com/user-attachments/assets/4dc62cae-35e4-4af9-ae94-105f94cef0e1" />
+<img width="1780" height="968" alt="Image" src="https://github.com/user-attachments/assets/3265a023-68d2-4a79-995c-3b6f53bfcb09" />
+<img width="1783" height="962" alt="Image" src="https://github.com/user-attachments/assets/cbf6d7b9-79a8-427f-8654-ee49c59d7ad1" />
+<img width="1789" height="961" alt="Image" src="https://github.com/user-attachments/assets/af92188a-831b-4ceb-858f-046c6b56811c" />
 
 
 #APSCHE #PythonInternship #Task6 #PythonProject #GitHub #Programming #LearningJourney
